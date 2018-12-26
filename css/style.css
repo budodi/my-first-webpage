@@ -1,0 +1,22 @@
+body {
+	color: #000000;
+	background-color: #008080;
+	font-family: serif;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 2em;
+}
+
+a {
+	color: #ffd700;
+	font-weight: bold;
+	text-decoration: underline;
+}
